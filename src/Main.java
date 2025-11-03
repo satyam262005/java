@@ -1,10 +1,13 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Setup Successful");
+class main{
+    public static void main(String[] args){
+        short b=5;
+        int c=5;
+        float f=90.3f;
+        boolean data=false;
+
+       System.out.println(b);
+        System.out.println(c);
+        System.out.println(f);
+        System.out.println(data);
     }
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/satyam262005/java.git
-git push -u origin main
+}
