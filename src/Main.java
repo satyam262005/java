@@ -1,9 +1,15 @@
 import java.util.Scanner;
 class main {
     public static void main(String[] args) {
-Scanner sc = new Scanner(System.in);
-System.out.println("Enter you String value");
-String str= sc.nextLine();
-System.out.println(str);
+//       String str="hello java";
+//       System.out.println(str.length());
+//        System.out.println(str.charAt());
+//        System.out.println(str.toUpperCase());
+//        System.out.println(str.toLowerCase());
+//        System.out.println(str.indexOf());
+//        System.out.println(str.substring());
+//        System.out.println(str.substring());
+//        System.out.println(str.length());
+//        System.out.println(str.trim());
     }
 }
