@@ -11,5 +11,13 @@ class main {
 //        System.out.println(str.substring());
 //        System.out.println(str.length());
 //        System.out.println(str.trim());
+        String str="hello";
+        int v=0;
+        for (char ch :str.toCharArray()){
+            if ("aeuio".indexOf(ch)!=-1){
+                v++;
+            }
+        }
+        System.out.println(v);
     }
 }
